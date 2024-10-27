@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [RecyTech](https://github.com/RecyLife), [Wikings](https://wikings.org/) and [creakor](https://creakor.xyz/)
 
-- 🌱 I’m currently learning **HTML, CSS**
+- 🌱 I’m currently learning **HTML, CSS and BASH**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KOR-ius/](https://github.com/KOR-ius/)
 
