@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kor-ius&label=Profile%20views&color=0e75b6&style=flat" alt="kor-ius" /> </p>
 
-- 🔭 I’m currently working on [RecyTech](https://github.com/RecyLife), [Wikings](https://wikings.org/) and [creakor](https://creakor.xyz/)
+- 🔭 I’m currently working on [RecyTech](https://recytech.me/), [Wikings](https://wikings.org/) and [Creakor](https://creakor.xyz/)
 
 - 🌱 I’m currently learning **HTML, CSS and BASH**
 
