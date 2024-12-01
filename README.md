@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ElevateWeb](https://elevateweb.ch/), [Wikings](https://wikings.org/) and [RecyTech](https://recytech.me/)
 
-- 🌱 I’m currently learning **HTML, CSS and BASH**
+- 🌱 I’m currently learning **HTML, CSS, BASH and C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KOR-ius/](https://github.com/KOR-ius/)
 
