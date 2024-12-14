@@ -33,7 +33,7 @@ Hi, I'm Dimitri! 👨‍💻 I'm a developer with a passion for solving real-wor
 
 I'm always open to new opportunities, collaborations, or just a good chat about technology!
 
-- [LinkedIn](https://www.linkedin.com/in/dimitri-blanchard-624695335/)   
+- [LinkedIn](https://www.linkedin.com/in/dimitri-blanchard-624695335/)  
 
 ---
 
@@ -69,6 +69,15 @@ I work with a variety of tools and languages. Here are a few of my favorites:
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="40" height="40"/>
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -109,7 +118,7 @@ I like to keep track of my progress and improvements. Here are my GitHub stats:
 
 Feel free to reach out if you want to talk tech, share ideas, or collaborate on something exciting! 😊
 
-- 📧 **Email**: [kor@tuta.com](mailto:kor@tuta.com) *(example email)*  
+- 📧 **Email**: [kor@tuta.com](mailto:kor@tuta.com)
 - 💬 **LinkedIn**: [Dimitri Blanchard](https://www.linkedin.com/in/dimitri-blanchard-624695335/)
 
 ---
