@@ -105,7 +105,7 @@ When I'm not coding, I enjoy exploring the world of **AI**, **machine learning**
 
 If you have any questions or just want to chat about tech, feel free to drop me a message. I'm always open to connecting with like-minded people!
 
-- 📧 **Email**: [kor@tuta.com](kor@tuta.com)
+- 📧 **Email**: [kor@tuta.com](mailto:kor@tuta.com)
 - 💬 **LinkedIn**: [Dimitri Blanchard](https://www.linkedin.com/in/dimitri-blanchard-624695335/)
 
 ---
