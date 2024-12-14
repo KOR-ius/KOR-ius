@@ -1,5 +1,5 @@
-<h1 align="center">Hello there, I'm Dimitri Blanchard 👋</h1>
-<h3 align="center">Passionate Developer | Tech Enthusiast | Problem Solver from Switzerland 🇨🇭</h3>
+<h1 align="center">Hey there, I'm Dimitri Blanchard 👋</h1>
+<h3 align="center">Passionate Full-Stack Developer | Tech Enthusiast | Problem Solver | Switzerland 🇨🇭</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kor-ius&label=Profile%20views&color=0e75b6&style=flat" alt="kor-ius" />
@@ -9,35 +9,41 @@
 
 ### 🚀 About Me
 
-- 🔭 **Current Projects**:  
-  I'm currently working on the following exciting projects:  
-  - [ElevateWeb](https://elevateweb.ch/) — A platform dedicated to elevate the web experience 🚀  
-  - [Wikings](https://wikings.org/) — Empowering knowledge sharing and community engagement 🌐  
-  - [RecyTech](https://recytech.me/) — Innovating in the recycling tech industry ♻️
+Hi, I'm Dimitri! 👨‍💻 I'm a developer with a passion for solving real-world problems through technology. My focus is on creating impactful, scalable solutions and contributing to the world of open-source.
 
-- 🌱 **Learning**:  
-  I'm always expanding my skillset, and at the moment, I'm diving deep into:  
-  - **HTML** & **CSS** for web development  
-  - **Bash** for better scripting and automation  
-  - **C#** to master software development
+- 🔭 **Currently Working On**:  
+  I'm excited to be part of several innovative projects:  
+  - [ElevateWeb](https://elevateweb.ch/) — Building tools for a seamless web experience 🚀  
+  - [Wikings](https://wikings.org/) — A platform dedicated to community-driven knowledge sharing 🌍  
+  - [RecyTech](https://recytech.me/) — Innovating the recycling tech space for a greener tomorrow ♻️
 
-- 👨‍💻 **Explore My Work**:  
-  All of my projects and contributions are available on my [GitHub Profile](https://github.com/Dimitri-Blanchard). Feel free to check out my repositories and open-source projects!
+- 🌱 **Learning & Growing**:  
+  I'm always pushing myself to learn new technologies and refine my skills. Right now, I'm focused on:  
+  - **HTML** & **CSS** for creating beautiful and responsive websites  
+  - **Bash** for automating tasks and boosting productivity  
+  - **C#** to deepen my knowledge of software engineering and game development
+
+- 🛠️ **Skills & Tools**:  
+  I'm proficient with various programming languages and tools. Check them out below!  
+  [Explore my projects on GitHub](https://github.com/Dimitri-Blanchard).
 
 ---
 
-### 📱 Connect with Me
+### 📱 Connect With Me
+
+I'm always open to new opportunities, collaborations, or just a good chat about technology!
 
 - [LinkedIn](https://www.linkedin.com/in/dimitri-blanchard-624695335/)  
-  Let's connect! I'm always open to discussing development, tech trends, and collaboration opportunities.
-  
+- [Twitter](https://twitter.com/dimitri_blchrd) *(optional, if applicable)*  
+- [Website](https://www.dimitri-blanchard.com) *(optional, if applicable)*  
+
 ---
 
 ### 🛠️ Languages & Tools
 
-Here are the tools and technologies I work with and love:
+I work with a variety of tools and languages. Here are a few of my favorites:
 
-#### Programming Languages
+#### **Programming Languages**  
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -57,7 +63,7 @@ Here are the tools and technologies I work with and love:
   </a>
 </p>
 
-#### Tools & Frameworks
+#### **Frameworks & Tools**  
 
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -79,35 +85,35 @@ Here are the tools and technologies I work with and love:
 
 ---
 
-### 📈 My GitHub Stats
+### 📈 GitHub Stats
+
+I like to keep track of my progress and improvements. Here are my GitHub stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dimitri-Blanchard&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="Dimitri's GitHub Stats" />
 </p>
 
----
-
-### 💬 Fun Fact
-
-When I'm not coding, I enjoy exploring the world of **AI**, **machine learning**, and how we can integrate technology into our everyday lives to make a bigger impact 🌍. Also, I'm a big fan of **open-source** and collaborating with others to build amazing things!
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimitri-Blanchard&theme=radical&hide_border=true" alt="GitHub Streaks" />
+</p>
 
 ---
 
-### 💡 Current Focus Areas
+### 💡 Fun Facts
 
-- **Web Development**: Deepening my knowledge in HTML, CSS, JavaScript, and modern frameworks.
-- **Software Engineering**: Exploring C# for robust application development.
-- **Automation**: Writing shell scripts (Bash) for improved workflow efficiency.
+- I have a deep interest in **AI** and **Machine Learning** and love exploring how they can improve our daily lives.  
+- I'm a huge advocate for **open-source** and enjoy collaborating on projects that benefit the community.
+- When I’m not coding, I enjoy learning new languages (currently improving my French and Italian 🇫🇷🇮🇹) and exploring the beautiful landscapes of Switzerland.
 
 ---
 
-### 📩 Reach Out to Me
+### 📩 Get in Touch
 
-If you have any questions or just want to chat about tech, feel free to drop me a message. I'm always open to connecting with like-minded people!
+Feel free to reach out if you want to talk tech, share ideas, or collaborate on something exciting! 😊
 
-- 📧 **Email**: [kor@tuta.com](mailto:kor@tuta.com)
+- 📧 **Email**: [kor@tuta.com](mailto:kor@tuta.com) *(example email)*  
 - 💬 **LinkedIn**: [Dimitri Blanchard](https://www.linkedin.com/in/dimitri-blanchard-624695335/)
 
 ---
 
-<h3 align="center">Let's build something great together! 🚀</h3>
+<h3 align="center">Let's build something amazing together! 🚀</h3>
