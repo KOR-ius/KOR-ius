@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KOR</h1>
+<h1 align="center">Hi 👋, I'm Dimitri Blanchard</h1>
 <h3 align="center">A passionate developer from Switzerland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kor-ius&label=Profile%20views&color=0e75b6&style=flat" alt="kor-ius" /> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, BASH and C#**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KOR-ius/](https://github.com/KOR-ius/)
+- 👨‍💻 All of my projects are available at [https://github.com/Dimitri-Blanchard](https://github.com/Dimitri-Blanchard)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
