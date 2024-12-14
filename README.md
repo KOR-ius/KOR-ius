@@ -33,9 +33,7 @@ Hi, I'm Dimitri! 👨‍💻 I'm a developer with a passion for solving real-wor
 
 I'm always open to new opportunities, collaborations, or just a good chat about technology!
 
-- [LinkedIn](https://www.linkedin.com/in/dimitri-blanchard-624695335/)  
-- [Twitter](https://twitter.com/dimitri_blchrd) *(optional, if applicable)*  
-- [Website](https://www.dimitri-blanchard.com) *(optional, if applicable)*  
+- [LinkedIn](https://www.linkedin.com/in/dimitri-blanchard-624695335/)   
 
 ---
 
