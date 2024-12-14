@@ -110,7 +110,6 @@ I like to keep track of my progress and improvements. Here are my GitHub stats:
 
 - I have a deep interest in **AI** and **Machine Learning** and love exploring how they can improve our daily lives.  
 - I'm a huge advocate for **open-source** and enjoy collaborating on projects that benefit the community.
-- When I’m not coding, I enjoy learning new languages (currently improving my French and Italian 🇫🇷🇮🇹) and exploring the beautiful landscapes of Switzerland.
 
 ---
 
